@@ -1,0 +1,15 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.AYAYA {
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+}
+
+.imagespace {
+  display: flex;
+  justify-content: center;
+}
