@@ -1,5 +1,6 @@
 html {
   background-color: rgb(50, 50, 63);
+  scrollbar-gutter: stable;
 }
 
 .hidden {
